@@ -47,6 +47,6 @@ static void Main(string[] args)
         Console.WriteLine(eleman);
     }
 
-    Console.ReadKey();
+    Console.ReadKey(); 
 }
 }
